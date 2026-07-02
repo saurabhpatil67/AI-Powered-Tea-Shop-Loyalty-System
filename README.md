@@ -1,6 +1,6 @@
 # ☕ AI-Powered Tea Shop Loyalty System
 
-### A Duolingo-inspired customer loyalty platform built using Telegram, n8n, AI Agents, and Google Sheets.
+### 🚀 An AI-powered customer loyalty system inspired by Duolingo-style engagement, helping local tea shops increase repeat customer visits using Telegram, AI Agents, and workflow automation.
 
 <p align="center">
 
@@ -11,6 +11,25 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 </p>
+
+---
+
+## 📑 Table of Contents
+
+- [🚀 Overview](#-overview)
+- [🏗️ System Architecture](#️-system-architecture)
+- [🎥 Project Demo](#-project-demo)
+- [📖 Problem Statement](#-problem-statement)
+- [💡 Solution](#-solution)
+- [⚙️ How It Works](#️-how-it-works)
+- [🛠️ Technology Stack](#️-technology-stack)
+- [✨ Features](#-features)
+- [📸 Screenshots & Demo](#-screenshots--demo)
+- [🧠 Challenges & Lessons Learned](#-challenges--lessons-learned)
+- [📁 Repository Structure](#-repository-structure)
+- [🔒 Security Notice](#-security-notice)
+- [👨‍💻 Author](#-author)
+- [📜 License](#-license)
 
 ---
 
@@ -26,9 +45,9 @@ The system combines **AI Agents**, **workflow automation**, and **Google Sheets*
 
 ## 🎯 Inspired By
 
-This project adapts customer retention strategies used by modern digital platforms, including:
+Inspired by customer engagement systems used by:
 
-- 🦉 Duolingo Daily Streaks
+- 🦉 Duolingo Streaks
 - 💼 LinkedIn Daily Games
 - ☕ Starbucks Rewards
 - 🛍️ Myntra Reward Campaigns
@@ -61,11 +80,13 @@ The goal is to bring similar engagement mechanics to small local businesses usin
 
 Want to see the system in action?
 
-▶️ **Watch the complete demo here:**
+▶️ **Watch the complete project demo on LinkedIn:**
 
-**🔗 LinkedIn Demo:** https://shorturl.at/yut59
+🔗 **Demo Video:** https://www.linkedin.com/feed/update/urn:li:activity:7472657993977765892/
 
-The demo includes:
+📖 **Detailed Blog:** https://rb.gy/g3qdb0
+
+The demo showcases:
 
 - Customer Registration
 - AI-powered Name & Mobile Extraction
@@ -73,6 +94,7 @@ The demo includes:
 - One Visit Per Day Protection
 - Google Sheets Database Update
 - Complete End-to-End Workflow
+
 
 ---
 
@@ -309,6 +331,7 @@ Free Tea Every 10 Visits
 | 🔍 Data Processing | AI Agent + IF Logic | Customer validation, code verification, and reward logic |
 | 🔑 Verification | Daily 6-Digit Code | Prevents fake or remote check-ins |
 | 🎁 Loyalty System | Visit-Based Reward Engine | Free tea after every 10 successful visits |
+| Version Control | Git & GitHub | Source code management |
 
 ---
 
@@ -759,6 +782,7 @@ Future versions may include:
 - Firebase / PostgreSQL Database
 - AI-powered Customer Insights
 - Promotional Campaign Automation
+- Dashboard for business owners to monitor customer engagement and loyalty statistics.
 
 ---
 
