@@ -817,4 +817,4 @@ Your support motivates me to build more AI-powered automation projects.
 
 This project is licensed under the **MIT License**.
 
-Feel free to use this project for learning and inspiration.
+Feel free to use this project for learning.
